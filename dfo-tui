@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Launch the DFO control panel from anywhere.
+set -euo pipefail
+cd "$(dirname "$0")"
+exec python3 ./dfo_tui.py "$@"
