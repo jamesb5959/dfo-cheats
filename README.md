@@ -1,5 +1,7 @@
 # Daggerfall Online Cheats/Exploits/Hacks
 
+I decided to make this repository public because of the ongoing controversy surrounding Daggerfall Online (DFO) and the actions of its development team. What started as a promising project has become increasingly focused on monetization through Patreon, expensive donation tiers, and in-game microtransactions. Meanwhile, the developers have continued making drastic changes that stray further from the original Daggerfall experience, while responding poorly to legitimate community criticism. There have also been allegations of the team taking and incorporating other creators mods without proper permission or credit. I believe these practices raise serious concerns about transparency, accountability, and respect for the modding community.
+
 ## Start here
 
 ```bash
